@@ -1,6 +1,6 @@
 # 🏗️ BuildCore Construction
 
-A professional, responsive construction company website built with HTML, CSS, and JavaScript.
+A professional, responsive construction company website .
 
 ![BuildCore Construction](https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1200&q=80)
 
